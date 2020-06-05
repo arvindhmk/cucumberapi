@@ -1,4 +1,4 @@
-Feature: Validating the place Api
+	Feature: Validating the place Api
 
 @AddPlace
 Scenario Outline: Verify if place is created successfully using AddPlaceApi
